@@ -1,0 +1,52 @@
+.containerMain{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.itemContainerTitle{
+  flex: 1;
+  background-color: #cfe2ff;
+  padding: 20px 0;
+
+}
+.custom-toolbar{
+  background-color: #cfe2ff;
+  padding-left: 5%;
+
+}
+.toolbar-title {
+
+  font-size: 1.8rem;
+
+}
+.bi-clipboard-data-fill{
+  padding: 5px;
+  font-size: 2rem;
+  margin-right: 10px;
+}
+.itemContainerFilter{
+  display: flex;
+  padding: 15px;
+  padding-left: 5%;
+  background-color: bisque;
+  flex-direction: column;
+}
+.subtitle{
+  flex: 1;
+  width: 100vw;
+}
+.example-form{
+  flex: 1;
+  width: 100vw;
+}
+.example-form{
+  display: flex;
+}
+.containerInputs1{
+  flex: 1 1 ;
+  width: 100vw;
+  background-color: aquamarine;
+  justify-content: space-around;
+}.example-full-width{
+  padding-left: 40px;
+}
